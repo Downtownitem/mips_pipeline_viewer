@@ -175,7 +175,7 @@ export function PipelineVisualization() {
                 <TableHead className="w-[150px] sticky left-0 bg-card z-10 border-r">
                   Instruction
                 </TableHead>
-                <TableHead className="w-[180px] sticky left-[150px] bg-card z-10 border-r">
+                <TableHead className="w-[240px] sticky left-[150px] bg-card z-10 border-r">
                   Hazard & Forwarding
                 </TableHead>
                 {cycleNumbers.map((c) => (
